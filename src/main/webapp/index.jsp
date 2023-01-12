@@ -1,6 +1,6 @@
 <html>
 <body>
-<h2>Hello World!..This is Demo site.</h2>
+  <h2><i>Hello World!..This is Demo site.</i></h2>
   <i>Learning jenkins...</i>
 </body>
 </html>
